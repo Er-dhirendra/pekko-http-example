@@ -1,0 +1,43 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(api.UserRoutesSpec, org.scalatest.tools.Framework$$anon$1@6c9095c4, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(utils.JsonFormatsSpec, org.scalatest.tools.Framework$$anon$1@6c9095c4, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(api.UserRegistrySpec, org.scalatest.tools.Framework$$anon$1@6c9095c4, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(model.UserSpec, org.scalatest.tools.Framework$$anon$1@6c9095c4, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUserSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly serialize to JSON[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly deserialize from JSON[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly handle JSON serialization and deserialization[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have the correct default values when created[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should handle different user values correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mJsonFormatsSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mJsonFormats[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly serialize and deserialize User objects[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly serialize and deserialize ActionPerformed objects[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUserRegistrySpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA UserRegistry actor[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should create a new user and respond with ActionPerformed[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the list of users on GetUsers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should update an existing user and respond with ActionPerformed[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should delete an existing user and respond with ActionPerformed[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should respond with ActionPerformed when attempting to delete a non-existing user[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUserRoutesSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUserRoutes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return an empty list of users on GET /users[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should create a new user and return ActionPerformed on POST /users[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return a user on GET /users/{id}[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return NotFound for a non-existing user on GET /users/{id}[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should update an existing user and return ActionPerformed on PUT /users/{id}[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should update an existing user with PATCH /users/{id}[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should delete an existing user and return NoContent on DELETE /users/{id}[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return OK on HEAD /users[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return allowed methods on OPTIONS /users[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 514 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 21[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 4, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 21, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model.UserSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	api.UserRegistrySpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utils.JsonFormatsSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	api.UserRoutesSpec[0m

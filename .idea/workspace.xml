@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21c08517-e3cf-4a47-8b5b-94cdb35b2168" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/projects.projects-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.bsp/sbt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__com_typesafe_akka_akka_actor_3_2_8_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__com_typesafe_akka_akka_actor_typed_3_2_8_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__com_typesafe_akka_akka_http_3_10_5_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__com_typesafe_akka_akka_http_core_3_10_5_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__com_typesafe_akka_akka_http_spray_json_3_10_5_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__com_typesafe_akka_akka_parsing_3_10_5_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__com_typesafe_akka_akka_protobuf_v3_3_2_8_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__com_typesafe_akka_akka_slf4j_3_2_8_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__com_typesafe_akka_akka_stream_3_2_8_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__com_typesafe_config_1_4_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__com_typesafe_ssl_config_core_3_0_6_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__io_spray_spray_json_3_1_3_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__org_reactivestreams_reactive_streams_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__org_scala_lang_modules_scala_java8_compat_3_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__org_scala_lang_scala3_library_3_3_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_36_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/libraries/sbt__scala_sdk_3_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmailNotification/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/modules/EmailNotification.EmailNotification-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/modules/EmailNotification.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmailNotification/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/Dependencies.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/config-classes/$0b141009bc1fad8cc794$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/config-classes/$0b141009bc1fad8cc794.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/config-classes/$0b141009bc1fad8cc794.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/config-classes/$0e62d6de967594804e4d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/config-classes/$0e62d6de967594804e4d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/config-classes/$0e62d6de967594804e4d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/config-classes/$19eb1948a05a7c804d06$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/config-classes/$19eb1948a05a7c804d06.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/config-classes/$19eb1948a05a7c804d06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/config-classes/$9fe39cf959d4b3b07ec7$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/config-classes/$9fe39cf959d4b3b07ec7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/config-classes/$9fe39cf959d4b3b07ec7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/scala-2.12/sbt-1.0/classes/Dependencies$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/scala-2.12/sbt-1.0/classes/Dependencies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/scala-2.12/sbt-1.0/sync/copy-resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/scala-2.12/sbt-1.0/zinc/inc_compile_2.12.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/bspReporter/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/project/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/src/main/scala/api/EmailNotificationRegistry.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/src/main/scala/api/EmailNotificationRoutes.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/src/main/scala/application/EmailNotificationServiceApplication.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/src/main/scala/model/Email.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/src/main/scala/utils/JsonFormats.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/scala-3.3.1/update/update_cache_3/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/scala-3.3.1/update/update_cache_3/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/compile/bspReporter/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/compile/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/test/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/test/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/test/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/config-classes/$395b06ba3203c08fdad0$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/config-classes/$395b06ba3203c08fdad0.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/config-classes/$395b06ba3203c08fdad0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/config-classes/$914a486c51878226e839$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/config-classes/$914a486c51878226e839.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/config-classes/$914a486c51878226e839.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/config-classes/$cb0c339a421bef84cc1e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/config-classes/$cb0c339a421bef84cc1e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/config-classes/$cb0c339a421bef84cc1e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/config-classes/$cc0661ea9f20a2983941$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/config-classes/$cc0661ea9f20a2983941.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/config-classes/$cc0661ea9f20a2983941.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/DependencyInversionPrinciple.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/DependencyInversionPrinciple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/DependencyInversionPrinciple.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/DependencyInversionPrinciple.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/DiscountCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/DiscountCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/DiscountCalculator.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/DiscountCalculator.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/HumanWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/HumanWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/HumanWorker.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/HumanWorker.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/InterfaceSegregationPrinciple.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/InterfaceSegregationPrinciple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/InterfaceSegregationPrinciple.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/InterfaceSegregationPrinciple.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/LiskovSubstitutionPrinciple.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/LiskovSubstitutionPrinciple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/LiskovSubstitutionPrinciple.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/LiskovSubstitutionPrinciple.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/MySQLDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/MySQLDatabase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/MySQLDatabase.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/MySQLDatabase.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/OpenClosedPrinciple.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/OpenClosedPrinciple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/OpenClosedPrinciple.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/OpenClosedPrinciple.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/Rectangle.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/Rectangle.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/RobotWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/RobotWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/RobotWorker.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/RobotWorker.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/SingleResponsibilityPrinciple.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/SingleResponsibilityPrinciple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/SingleResponsibilityPrinciple.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/SingleResponsibilityPrinciple.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/Square.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/Square.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/User.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/User.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/UserRepository.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/UserRepository.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/Worker.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/scala-3.3.3/classes/Worker.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pekko-http-example" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2jdGKWBi7Kwzq8ihgO1QxqhTBsR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EmailNotificationServiceApplication.executor": "Run",
+    "Application.UserServiceApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ScalaTest.UserRegistrySpec.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/dhirendrakashyap/Projects/pekko-http-example",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="UserRegistrySpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="UserService" />
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <option name="testClassPath" value="api.UserRegistrySpec" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.UserRegistrySpec" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="migrateConfigurationsNotificationShown" value="true" />
+    <option name="scala3DisclaimerShown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21c08517-e3cf-4a47-8b5b-94cdb35b2168" name="Changes" comment="" />
+      <created>1721709476553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721709476553</updated>
+    </task>
+    <servers />
+  </component>
+</project>

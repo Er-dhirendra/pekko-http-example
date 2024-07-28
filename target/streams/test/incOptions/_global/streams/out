@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/dhirendrakashyap/Projects/UserService/target/scala-3.3.1/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/dhirendrakashyap/Projects/UserService/target/scala-3.3.1/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistrySpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonFormatsSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRoutesSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserSpec.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRegistrySpec.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonFormatsSpec.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRoutesSpec.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/dhirendrakashyap/Projects/UserService/target/scala-3.3.1/test-classes.bak[0m
