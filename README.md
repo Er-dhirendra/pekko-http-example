@@ -260,4 +260,4 @@ curl -X OPTIONS "http://localhost:8080/users"
 - Body: `GET, POST, PUT, PATCH, DELETE, OPTIONS`
 ```
 
-This `README.md` will provide clear instructions on how to use `curl` to interact with your API, and the commands will help you test your endpoints effectively.
+This `README.md` will provide clear instructions on how to use `curl` to interact with the API, and the commands will help you test your endpoints effectively.
