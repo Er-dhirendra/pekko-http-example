@@ -146,6 +146,20 @@
       <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/test/unmanagedClasspath/_global/streams/out" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EmailNotification/target/streams/test/unmanagedJars/_global/streams/export" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.1/classes/api/UserRegistry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.1/classes/api/UserRegistry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.1/classes/api/UserRegistry.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.1/classes/api/UserRegistry.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.1/classes/api/UserRoutes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.1/classes/api/UserRoutes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.1/classes/api/UserRoutes.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.1/classes/api/UserRoutes.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.1/classes/app/UserServiceApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.1/classes/app/UserServiceApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.1/classes/app/UserServiceApp.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.1/classes/app/UserServiceApp.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.1/classes/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.1/classes/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.1/classes/model/User.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.1/classes/model/User.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.1/classes/utils/JsonFormats.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.1/classes/utils/JsonFormats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.1/classes/utils/JsonFormats.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.1/classes/utils/JsonFormats.tasty" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scala-SOLID-principle/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-SOLID-principle/.idea/vcs.xml" afterDir="false" />
@@ -231,7 +245,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
